@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Chiu Audio Lab Header" width="100%" />
+</p>
+
 # Hi there, I'm Chang-Pao Chiu (Bao) 👋
 
 <p align="left">

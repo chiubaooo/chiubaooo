@@ -13,8 +13,7 @@ Focused on mixing, mastering, and exploring AI-assisted workflows for audio prod
 
 ---
 
-### Work & Inquiries
+### Contact
 
-* **Freelance**: [Fiverr Studio](https://www.fiverr.com/chiubaooo)
 * **Network**: [LinkedIn](https://www.linkedin.com/in/chang-pao-chiu/)
 * **Direct**: `mrk30486479@gmail.com`

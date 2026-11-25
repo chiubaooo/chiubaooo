@@ -1,15 +1,15 @@
 # Chang-Pao Chiu
 
-Audio engineer and developer bridging classical acoustic engineering with modern software automation.  
-Undergraduate in Applied Music (Audio Engineering) at TNNUA, Taiwan.
+Audio engineer based in Taiwan, studying Applied Music (Audio Engineering) at TNNUA.  
+Focused on mixing, mastering, and exploring AI-assisted workflows for audio production.
 
 ---
 
 ### Focus
 
-* **Mixing & Mastering** — Broadcast-grade loudness engineering (-14 LUFS / True Peak control) and multitrack balance in Pro Tools.
-* **Spectral Restoration** — Phase alignment, comb-filter reduction, and spectral de-harshing for AI-generated stems (Suno / Udio).
-* **Audio DSP & Pipelines** — Real-time audio plugins in C++20 / JUCE 8, neural inference via ONNX Runtime, and automated media pipelines in Python.
+* **Mixing & Mastering** — Multitrack balancing and loudness control in Pro Tools.
+* **AI Audio Post-Production** — Cleaning up harshness and improving mix translation for AI-generated stems (Suno / Udio).
+* **AI-Assisted Audio Tools** — Vibe-coding and prototyping small workflow tools with AI to solve real mixing bottlenecks.
 
 ---
 
